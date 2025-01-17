@@ -12,7 +12,7 @@
 
 ---
 
-## Features
+## Features ⚙️
 
 - **Multi-model support**: Compatible with OpenAI GPT, Ollama Llama, Mistral, and Qwen models.
 - **Dynamic model management**: Automatically verifies and downloads models when needed.
@@ -21,7 +21,7 @@
 
 ---
 
-## Requirements
+## Requirements 🛠️
 
 Ensure you have the following installed:
 
@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 ---
 
-## Installation
+## Installation 💻
 
 1. Clone the repository:
 
@@ -50,7 +50,7 @@ Ensure you have the following installed:
 
 ---
 
-## Usage
+## Usage 🦾
 
 1. Open the Jupyter Notebook:
 
@@ -64,7 +64,7 @@ Ensure you have the following installed:
 
 ---
 
-## To Do
+## To Do 📋
 
 - Add support for Claude models.
 - Implement a file upload section for interactive file processing.
@@ -72,6 +72,6 @@ Ensure you have the following installed:
 
 ---
 
-## License
+## License ⚖️
 
 This project is licensed under the MIT License.
