@@ -4,7 +4,7 @@
 <div style="display: flex; align-center: flex-start;">
   <div style="flex: 2; max-width: 80%;">
         <div>
-            <img src="./images/example.png" width=100%>
+            <img src="./images/example.gif" width=100%>
         </div>
         <p>A streamlined and versatile chatbot interface supporting various language models such as OpenAI GPT, Ollama Llama, and others. Designed for flexibility and ease of use, the project provides a Gradio-based frontend for seamless interactions.</p>
   </div>
