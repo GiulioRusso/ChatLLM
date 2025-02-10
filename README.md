@@ -73,7 +73,3 @@ Ensure you have the following installed:
 - Add functionality for image generation using integrated models.
 
 ---
-
-## License ⚖️
-
-This project is licensed under the MIT License.
