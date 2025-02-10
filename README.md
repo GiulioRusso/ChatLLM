@@ -4,9 +4,10 @@
   </div>
   <div style="flex: 2; max-width: 80%;">
     <center><h1>ChatLLM</h1></center>
-    <p>A streamlined and versatile chatbot interface supporting various language models such as OpenAI GPT, Ollama Llama, and others. Designed for flexibility and ease of use, the project provides a Gradio-based frontend for seamless interactions.</p>
   </div>
 </div>
+
+<p>A streamlined and versatile chatbot interface supporting various language models such as OpenAI GPT, Ollama Llama, and others. Designed for flexibility and ease of use, the project provides a Gradio-based frontend for seamless interactions.</p>
 
 <div style="display: flex; align-center: flex-start;">
   <div style="flex: 2; max-width: 80%;">
