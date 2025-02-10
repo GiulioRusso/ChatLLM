@@ -1,13 +1,13 @@
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; max-width: 20%; padding-right: 10px;">
-    <img src="./images/ChatLLM-logo.png" width=150px>
-  </div>
-  <div style="flex: 2; max-width: 80%;">
-    <center><h1>ChatLLM</h1></center>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src="./images/ChatLLM-logo.png" width="120px"></td>
+    <td><center><h1>ChatLLM</h1></center></td>
+  </tr>
+</table>
 
 <p>A streamlined and versatile chatbot interface supporting various language models such as OpenAI GPT, Ollama Llama, and others. Designed for flexibility and ease of use, the project provides a Gradio-based frontend for seamless interactions.</p>
+
+<br>
 
 <div style="display: flex; align-center: flex-start;">
   <div style="flex: 2; max-width: 80%;">
